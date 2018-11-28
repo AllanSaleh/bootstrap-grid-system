@@ -17,4 +17,5 @@ git commit -m 'completes bootstrap code-along'
 git push
 ```
 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-grid-system' title='Bootstrap Grid System'>Bootstrap Grid System</a> on Learn.co and start learning to code for free.</p>
